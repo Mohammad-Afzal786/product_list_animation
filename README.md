@@ -33,7 +33,9 @@ cd product_list_animation
 
 ## 🎬 Demo
 
-![App Demo](assets/demo.gif)
+
+<img src="assets/demo.gif" width="400" alt="wait App Demo GIF">
+
 
 ## 📱 Demo Flow
 
