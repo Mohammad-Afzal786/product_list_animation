@@ -17,9 +17,10 @@ A Flutter application showcasing **products** in a modern **carousel slider** wi
 
 ## 🛠 Packages Used
 
-- [flutter](https://flutter.dev)  
-- [carousel_slider](https://pub.dev/packages/carousel_slider) – for product slider  
-- [animate_do](https://pub.dev/packages/animate_do) – for animations  
+- **[flutter](https://flutter.dev)** → Core framework to build cross-platform apps  
+- **[carousel_slider](https://pub.dev/packages/carousel_slider)** → Beautiful, customizable carousel widget for product slider  
+- **[animate_do](https://pub.dev/packages/animate_do)** → Pre-built animations (FadeIn, ZoomIn, Bounce, etc.) for smooth UI transitions  
+- **[material.dart](https://api.flutter.dev/flutter/material/material-library.html)** → Material Design widgets for UI structure and styling  
 
 
 ## 🚀 Getting Started
@@ -32,7 +33,7 @@ cd product_list_animation
 
 ## 🎬 Demo
 
-![App Demo](assets/demo.gif)
+![App Demo](assets/demo.mp4)
 
 ## 📱 Demo Flow
 
