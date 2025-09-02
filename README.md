@@ -21,7 +21,7 @@ A Flutter application showcasing **products** in a modern **carousel slider** wi
 - [carousel_slider](https://pub.dev/packages/carousel_slider) – for product slider  
 - [animate_do](https://pub.dev/packages/animate_do) – for animations  
 
----
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
@@ -29,11 +29,11 @@ A Flutter application showcasing **products** in a modern **carousel slider** wi
 git clone https://github.com/Mohammad-Afzal786/product_list_animation.git
 cd product_list_animation
 ```
----
+
 ## 🎬 Demo
 
 ![App Demo](assets/demo.gif)
----
+
 ## 📱 Demo Flow
 
 App starts with Product Carousel
@@ -44,6 +44,5 @@ Detail page shows product info, price, discount, variants, and Add to Cart butto
 
 
 
----
 
 💡 Made with ❤️ using Flutter by [Mohammad Afzal](https://github.com/Mohammad-Afzal786)
