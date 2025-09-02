@@ -33,7 +33,7 @@ cd product_list_animation
 
 ## 🎬 Demo
 
-![App Demo](assets/demo.mp4)
+![App Demo](assets/demo.gif)
 
 ## 📱 Demo Flow
 
